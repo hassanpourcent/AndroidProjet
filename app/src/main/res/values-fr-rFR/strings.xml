@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetAndroid</string>
+
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="action_settings">Parametres</string>
+    <string name="button_text">Toast</string>
+    <string name="dpd_button">DatePickerDialog</string>
+    <string name="msg">Je suis un petit toast beurré</string>
+    <string name="dl">Début de téléchargement..</string>
+    <string name="title_activity_seconde">DeuxiemeActiviter</string>
+</resources>
